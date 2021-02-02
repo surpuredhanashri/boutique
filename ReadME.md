@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # amazon_Clone
 MERN Stack Project.
 =======
