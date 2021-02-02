@@ -1,7 +1,7 @@
 
-# amazon_Clone
+# boutique (E-Commerce Website)
 MERN Stack Project.
-=======
+
 https://www.w3schools.com/
 
 https://reactjs.org/
