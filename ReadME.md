@@ -1,6 +1,4 @@
-# Amazona ECommerce Website
-# PLEASE DO NOT SEND PULL REQUEST
-# ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
+# boutique (E-Commerce Website)
 1. Introduction to this course
    1. what you will build
    2. what you will learn
@@ -208,8 +206,7 @@
     2. Create Admin Middleware in Backend
     3. Create Admin Route in Frontend
     
-# boutique (E-Commerce Website)
-MERN Stack Project.
+Webiste - 
 
 https://www.w3schools.com/
 https://reactjs.org/
