@@ -5,7 +5,7 @@
    2. Web Browser
    3. VS Code Extension
 3. Website Template
-   1. Create amazona folder
+   1. Create boutique folder
    2. create template folder
    3. create index.html
    4. add default HTML code
